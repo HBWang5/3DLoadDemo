@@ -1,0 +1,63 @@
+ninja: Entering directory `D:\WorkSpace\3DLoadDemo\app\.cxx\cmake\release\armeabi-v7a'
+[0/1] Re-running CMake...
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/WorkSpace/3DLoadDemo/app/.cxx/cmake/release/armeabi-v7a
+[1/50] Building CXX object CMakeFiles/native-render.dir/sample/BeatingHeartSample.cpp.o
+[2/50] Building CXX object CMakeFiles/native-render.dir/sample/BezierCurveSample.cpp.o
+[3/50] Building CXX object CMakeFiles/native-render.dir/sample/AvatarSample.cpp.o
+[4/50] Building CXX object CMakeFiles/native-render.dir/render/EGLRender.cpp.o
+[5/50] Building CXX object CMakeFiles/native-render.dir/util/GLUtils.cpp.o
+[6/50] Building CXX object CMakeFiles/native-render.dir/JniImpl.cpp.o
+[7/50] Building CXX object CMakeFiles/native-render.dir/sample/BasicLightingSample.cpp.o
+[8/50] Building CXX object CMakeFiles/native-render.dir/sample/BigEyesSample.cpp.o
+[9/50] Building CXX object CMakeFiles/native-render.dir/sample/CoordSystemSample.cpp.o
+[10/50] Building CXX object CMakeFiles/native-render.dir/sample/FBOLegLengthenSample.cpp.o
+[11/50] Building CXX object CMakeFiles/native-render.dir/sample/CloudSample.cpp.o
+[12/50] Building CXX object CMakeFiles/native-render.dir/sample/BigHeadSample.cpp.o
+[13/50] Building CXX object CMakeFiles/native-render.dir/sample/DepthTestingSample.cpp.o
+[14/50] Building CXX object CMakeFiles/native-render.dir/sample/FBOBlitSample.cpp.o
+[15/50] Building CXX object CMakeFiles/native-render.dir/sample/FBOSample.cpp.o
+[16/50] Building CXX object CMakeFiles/native-render.dir/sample/FaceSlenderSample.cpp.o
+[17/50] Building CXX object CMakeFiles/native-render.dir/sample/BlendingSample.cpp.o
+[18/50] Building CXX object CMakeFiles/native-render.dir/sample/InstancingSample.cpp.o
+[19/50] Building CXX object CMakeFiles/native-render.dir/sample/NV21TextureMapSample.cpp.o
+[20/50] Building CXX object CMakeFiles/native-render.dir/render/MyGLRenderContext.cpp.o
+[21/50] Building CXX object CMakeFiles/native-render.dir/sample/MRTSample.cpp.o
+[22/50] Building CXX object CMakeFiles/native-render.dir/sample/Instancing3DSample.cpp.o
+[23/50] Building CXX object CMakeFiles/native-render.dir/sample/Noise3DSample.cpp.o
+[24/50] Building CXX object CMakeFiles/native-render.dir/sample/PBOSample.cpp.o
+[25/50] Building CXX object CMakeFiles/native-render.dir/sample/MultiLightsSample.cpp.o
+[26/50] Building CXX object CMakeFiles/native-render.dir/sample/StencilTestingSample.cpp.o
+[27/50] Building CXX object CMakeFiles/native-render.dir/sample/SharedEGLContextSample.cpp.o
+[28/50] Building CXX object CMakeFiles/native-render.dir/sample/ParticlesSample.cpp.o
+[29/50] Building CXX object CMakeFiles/native-render.dir/sample/ScratchCardSample.cpp.o
+[30/50] Building CXX object CMakeFiles/native-render.dir/sample/RotaryHeadSample.cpp.o
+[31/50] Building CXX object CMakeFiles/native-render.dir/sample/ShockWaveSample.cpp.o
+[32/50] Building CXX object CMakeFiles/native-render.dir/sample/RGB2YUVSample.cpp.o
+[33/50] Building CXX object CMakeFiles/native-render.dir/sample/SkyBoxSample.cpp.o
+[34/50] Building CXX object CMakeFiles/native-render.dir/sample/Model3DSample.cpp.o
+[35/50] Building CXX object CMakeFiles/native-render.dir/sample/TextureMapSample.cpp.o
+[36/50] Building CXX object CMakeFiles/native-render.dir/sample/TextureBuffferSample.cpp.o
+[37/50] Building CXX object CMakeFiles/native-render.dir/sample/TriangleSample.cpp.o
+[38/50] Building CXX object CMakeFiles/native-render.dir/egl/OffscreenSurface.cpp.o
+[39/50] Building CXX object CMakeFiles/native-render.dir/sample/VaoSample.cpp.o
+[40/50] Building CXX object CMakeFiles/native-render.dir/egl/EglCore.cpp.o
+[41/50] Building CXX object CMakeFiles/native-render.dir/egl/EglSurfaceBase.cpp.o
+[42/50] Building CXX object CMakeFiles/native-render.dir/sample/VisualizeAudioSample.cpp.o
+[43/50] Building CXX object CMakeFiles/native-render.dir/sample/TransformFeedbackSample.cpp.o
+[44/50] Building CXX object CMakeFiles/native-render.dir/looper/Looper.cpp.o
+[45/50] Building CXX object CMakeFiles/native-render.dir/sample/UniformBufferSample.cpp.o
+[46/50] Building CXX object CMakeFiles/native-render.dir/egl/WindowSurface.cpp.o
+[47/50] Building CXX object CMakeFiles/native-render.dir/sample/TextRenderSample.cpp.o
+D:/WorkSpace/3DLoadDemo/app/src/main/cpp/sample/TextRenderSample.cpp:263:182: warning: format specifies type 'int' but the argument has type 'FT_Pos' (aka 'long') [-Wformat]
+        LOGCATE("TextRenderSample::LoadFacesByASCII [w,h,buffer]=[%d, %d, %p], ch.advance >> 6 = %d", face->glyph->bitmap.width,face->glyph->bitmap.rows, face->glyph->bitmap.buffer,face->glyph->advance.x >> 6);
+                                                                                                 ~~                                                                                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                                                                                 %ld
+D:/WorkSpace/3DLoadDemo/app/src/main/cpp/util/LogUtil.h:10:70: note: expanded from macro 'LOGCATE'
+#define  LOGCATE(...)  __android_log_print(ANDROID_LOG_ERROR,LOG_TAG,__VA_ARGS__)
+                                                                     ^~~~~~~~~~~
+1 warning generated.
+[48/50] Building CXX object CMakeFiles/native-render.dir/sample/TimeTunnelSample.cpp.o
+[49/50] Building CXX object CMakeFiles/native-render.dir/looper/GLRenderLooper.cpp.o
+[50/50] Linking CXX shared library D:\WorkSpace\3DLoadDemo\app\build\intermediates\cmake\release\obj\armeabi-v7a\libnative-render.so

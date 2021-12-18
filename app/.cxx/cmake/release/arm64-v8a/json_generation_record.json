@@ -1,0 +1,188 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 24 min SDK version: arm64-v8a",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON D:\\WorkSpace\\3DLoadDemo\\app\\.cxx\\cmake\\release\\arm64-v8a\\android_gradle_build.json due to:",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "keeping json folder \u0027D:\\WorkSpace\\3DLoadDemo\\app\\.cxx\\cmake\\release\\arm64-v8a\u0027 but regenerating project",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\HBWang\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HD:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++11 -frtti -fexceptions\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\HBWang\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\HBWang\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\n-DANDROID_PLATFORM\u003dandroid-24\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\HBWang\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\WorkSpace\\3DLoadDemo\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\HBWang\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d24\n-BD:\\WorkSpace\\3DLoadDemo\\app\\.cxx\\cmake\\release\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"D:/WorkSpace/3DLoadDemo/app/src/main/cpp\",\n  \"buildDirectory\": \"D:/WorkSpace/3DLoadDemo/app/.cxx/cmake/release/arm64-v8a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_CXX_FLAGS\\u003d-std\\u003dc++11 -frtti -fexceptions\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\Users\\\\HBWang\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\20.0.5594570\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darm64-v8a\",\n    \"-DANDROID_NDK\\u003dC:\\\\Users\\\\HBWang\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\20.0.5594570\",\n    \"-DANDROID_PLATFORM\\u003dandroid-24\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darm64-v8a\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\Users\\\\HBWang\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\20.0.5594570\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dD:\\\\WorkSpace\\\\3DLoadDemo\\\\app\\\\build\\\\intermediates\\\\cmake\\\\release\\\\obj\\\\arm64-v8a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Users\\\\HBWang\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d24\"\n  ]\n}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\"C:/Users/HBWang/AppData/Local/Android/Sdk/ndk/20.0.5594570/build/cmake/platforms.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"C:/Users/HBWang/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp\",\"type\":\"reply\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"D:/WorkSpace/3DLoadDemo/app/.cxx/cmake/release/arm64-v8a\",\"name\":\"Project\",\"sourceDirectory\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp\",\"targets\":[{\"artifacts\":[\"D:/WorkSpace/3DLoadDemo/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-render.so\"],\"buildDirectory\":\"D:/WorkSpace/3DLoadDemo/app/.cxx/cmake/release/arm64-v8a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O2 -DNDEBUG  -fPIC  \",\"defines\":[\"native_render_EXPORTS\"],\"includePath\":[{\"path\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp/util\"},{\"path\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp/render\"},{\"path\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp/sample\"},{\"path\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp/glm\"},{\"path\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp/inc\"},{\"path\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp/inc/assimp\"},{\"path\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp/inc/freetype_2_9_1\"},{\"path\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp/model\"},{\"path\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp/opencv_3_0_0\"},{\"path\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp/egl\"},{\"path\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp/looper\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"JniImpl.cpp\",\"render/EGLRender.cpp\",\"render/MyGLRenderContext.cpp\",\"util/GLUtils.cpp\",\"sample/AvatarSample.cpp\",\"sample/BasicLightingSample.cpp\",\"sample/BeatingHeartSample.cpp\",\"sample/BezierCurveSample.cpp\",\"sample/BigEyesSample.cpp\",\"sample/BigHeadSample.cpp\",\"sample/BlendingSample.cpp\",\"sample/CloudSample.cpp\",\"sample/CoordSystemSample.cpp\",\"sample/DepthTestingSample.cpp\",\"sample/FBOBlitSample.cpp\",\"sample/FBOLegLengthenSample.cpp\",\"sample/FBOSample.cpp\",\"sample/FaceSlenderSample.cpp\",\"sample/Instancing3DSample.cpp\",\"sample/InstancingSample.cpp\",\"sample/MRTSample.cpp\",\"sample/Model3DSample.cpp\",\"sample/MultiLightsSample.cpp\",\"sample/NV21TextureMapSample.cpp\",\"sample/Noise3DSample.cpp\",\"sample/PBOSample.cpp\",\"sample/ParticlesSample.cpp\",\"sample/RGB2YUVSample.cpp\",\"sample/RotaryHeadSample.cpp\",\"sample/ScratchCardSample.cpp\",\"sample/SharedEGLContextSample.cpp\",\"sample/ShockWaveSample.cpp\",\"sample/SkyBoxSample.cpp\",\"sample/StencilTestingSample.cpp\",\"sample/TextRenderSample.cpp\",\"sample/TextureBuffferSample.cpp\",\"sample/TextureMapSample.cpp\",\"sample/TimeTunnelSample.cpp\",\"sample/TransformFeedbackSample.cpp\",\"sample/TriangleSample.cpp\",\"sample/UniformBufferSample.cpp\",\"sample/VaoSample.cpp\",\"sample/VisualizeAudioSample.cpp\",\"egl/EglCore.cpp\",\"egl/EglSurfaceBase.cpp\",\"egl/OffscreenSurface.cpp\",\"egl/WindowSurface.cpp\",\"looper/GLRenderLooper.cpp\",\"looper/Looper.cpp\"]}],\"fullName\":\"libnative-render.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"-llog D:\\\\WorkSpace\\\\3DLoadDemo\\\\app\\\\src\\\\main\\\\cpp\\\\..\\\\jniLibs\\\\arm64-v8a\\\\libfreetype.a D:\\\\WorkSpace\\\\3DLoadDemo\\\\app\\\\src\\\\main\\\\cpp\\\\..\\\\jniLibs\\\\arm64-v8a\\\\libassimp.so D:\\\\WorkSpace\\\\3DLoadDemo\\\\app\\\\src\\\\main\\\\cpp\\\\..\\\\jniLibs\\\\arm64-v8a\\\\libopencv_java3.so -lEGL -lGLESv3 -landroid -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"native-render\",\"sourceDirectory\":\"D:/WorkSpace/3DLoadDemo/app/src/main/cpp\",\"sysroot\":\"C:/Users/HBWang/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output D:\\WorkSpace\\3DLoadDemo\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_output.txt",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file D:\\WorkSpace\\3DLoadDemo\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_command.txt",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  }
+]

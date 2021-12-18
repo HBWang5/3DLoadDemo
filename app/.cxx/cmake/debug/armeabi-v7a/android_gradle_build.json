@@ -1,0 +1,282 @@
+{
+  "stringTable": {
+    "0": "D:/WorkSpace/3DLoadDemo/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi24 --gcc-toolchain=C:/Users/HBWang/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/HBWang/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_render_EXPORTS -ID:/WorkSpace/3DLoadDemo/app/src/main/cpp/util -ID:/WorkSpace/3DLoadDemo/app/src/main/cpp/render -ID:/WorkSpace/3DLoadDemo/app/src/main/cpp/sample -ID:/WorkSpace/3DLoadDemo/app/src/main/cpp/glm -ID:/WorkSpace/3DLoadDemo/app/src/main/cpp/inc -ID:/WorkSpace/3DLoadDemo/app/src/main/cpp/inc/assimp -ID:/WorkSpace/3DLoadDemo/app/src/main/cpp/inc/freetype_2_9_1 -ID:/WorkSpace/3DLoadDemo/app/src/main/cpp/model -ID:/WorkSpace/3DLoadDemo/app/src/main/cpp/opencv_3_0_0 -ID:/WorkSpace/3DLoadDemo/app/src/main/cpp/egl -ID:/WorkSpace/3DLoadDemo/app/src/main/cpp/looper -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\HBWang\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\HBWang\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\HBWang\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\WorkSpace\\3DLoadDemo\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\HBWang\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\WorkSpace\\3DLoadDemo\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-render-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\HBWang\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\WorkSpace\\3DLoadDemo\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" native-render",
+      "buildType": "debug",
+      "toolchain": "3050988502",
+      "abi": "armeabi-v7a",
+      "artifactName": "native-render",
+      "files": [
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\JniImpl.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\render\\EGLRender.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\render\\MyGLRenderContext.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\util\\GLUtils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\AvatarSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\BasicLightingSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\BeatingHeartSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\BezierCurveSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\BigEyesSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\BigHeadSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\BlendingSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\CloudSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\CoordSystemSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\DepthTestingSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\FBOBlitSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\FBOLegLengthenSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\FBOSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\FaceSlenderSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\Instancing3DSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\InstancingSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\MRTSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\Model3DSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\MultiLightsSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\NV21TextureMapSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\Noise3DSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\PBOSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\ParticlesSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\RGB2YUVSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\RotaryHeadSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\ScratchCardSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\SharedEGLContextSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\ShockWaveSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\SkyBoxSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\StencilTestingSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\TextRenderSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\TextureBuffferSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\TextureMapSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\TimeTunnelSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\TransformFeedbackSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\TriangleSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\UniformBufferSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\VaoSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\sample\\VisualizeAudioSample.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\egl\\EglCore.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\egl\\EglSurfaceBase.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\egl\\OffscreenSurface.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\egl\\WindowSurface.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\looper\\GLRenderLooper.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\WorkSpace\\3DLoadDemo\\app\\src\\main\\cpp\\looper\\Looper.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\WorkSpace\\3DLoadDemo\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libnative-render.so"
+    }
+  },
+  "toolchains": {
+    "3050988502": {
+      "cppCompilerExecutable": "C:\\Users\\HBWang\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
