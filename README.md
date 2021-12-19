@@ -2,4 +2,4 @@
 
 
 
-https://github.com/HBWang5/NDK_OpenGLES_3_0
+參考：https://github.com/githubhaohao/NDK_OpenGLES_3_0
